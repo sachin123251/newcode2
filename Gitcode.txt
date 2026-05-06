@@ -1,0 +1,11 @@
+git status dekho
+git add . " sari filr add ho jayegi
+git commit -m "ad new"
+git push origin main
+git branch "branch check karna"
+git branch -M main " nai branch banana"
+git remote add origin phir link new repiretory ki
+git remote -v
+ls
+ls -a
+git push -u origin main "ab ye shortcut bna lega git push likho bas"
