@@ -9,3 +9,14 @@ git remote -v
 ls
 ls -a
 git push -u origin main "ab ye shortcut bna lega git push likho bas"
+cd folder ka naam usme chale jayenge
+cd .. ye 1 folder piche chala jayega
+mkdir localrepo "naya folder ban jayega"
+git checkout "aur dusri branch ka naam"
+git checkout -b " aur nai branch ka naam"
+git checkout -d "yani delete us branch ka naam"
+compare two branch - git diff main " jab dusri branch me ho tab"
+git merge main "yani hamari branch feature ke sath merge ho jayegi"
+agar remote respiretory se download karna hai to. git pull origin main ka use karenge
+Resolving merge conflit : matlab jab 1 hi jagah pe alag alag change different branch me to
+isko solve karne ke liye dono feature ko add karenge sath me uske merge kar lo git merge feature 1 se
